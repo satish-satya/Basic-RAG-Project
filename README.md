@@ -49,7 +49,7 @@ BASIC-RAG-PROJECT/
     └── chunks.json
 🛠️ Installation
 1️⃣ Clone Repository
-git clone https://github.com/your-username/basic-rag-project.git
+https://github.com/satish-satya/Basic-RAG-Project.git
 
 cd basic-rag-project
 2️⃣ Create Virtual Environment
