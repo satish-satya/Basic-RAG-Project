@@ -1,3 +1,4 @@
+
 🤖 Basic RAG Chatbot using OpenAI + FAISS
 Retrieval-Augmented Generation (RAG) Application
 Ask questions from your own PDF, DOCX, and TXT files using OpenAI and FAISS.
@@ -48,7 +49,7 @@ BASIC-RAG-PROJECT/
     └── chunks.json
 🛠️ Installation
 1️⃣ Clone Repository
-git remote add origin https://github.com/satish-satya/Basic-RAG-Project.git
+git clone https://github.com/your-username/basic-rag-project.git
 
 cd basic-rag-project
 2️⃣ Create Virtual Environment
